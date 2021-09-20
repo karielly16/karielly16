@@ -1,5 +1,5 @@
 ### Oiii! Eu sou a Stéffanny 👋
-- 🔭 Estágiando em uma empresa tecnológica
+- 🔭 Estágiando
 - 😄 Pronomes: ela/dela
 
 <a href="https://github.com/karielly16">
