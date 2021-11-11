@@ -1,6 +1,6 @@
 ### Oiii! Eu sou a Stéffanny 👋
 - 🔭 Estágiando
-- 😄 Pronomes: ela/dela
+- Sempre me perguntaram o que gostaria de ser quando fosse 'grande', e minha resposta automática era ser professora! Hoje aprendo a programar (profissão parecida, não?! kkkkk).
 
 <a href="https://github.com/karielly16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karielly16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
