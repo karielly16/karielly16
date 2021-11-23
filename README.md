@@ -5,6 +5,8 @@
 <a href="https://www.facebook.com/steffanny.k.d.selzler.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 Estou no 2° Semestre de Análise e Desenvolvimento de Sistemas
+
+- Fascinada, no momento, por Desenvolvimento Web
  
 - Morando em Sinop-MT
 
