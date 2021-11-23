@@ -12,8 +12,6 @@
  
  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/3c38d9c68a50e9d5ac2177528b5ea857.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a>
  
-  #
-  #
   
 
 
