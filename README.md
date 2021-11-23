@@ -7,8 +7,6 @@
 Estou no 2° Semestre de Análise e Desenvolvimento de Sistemas
 
 - Fascinada  por Desenvolvimento Web
- 
-- Morando em Sinop-MT
 
 - Estágiando
 
