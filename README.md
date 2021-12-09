@@ -1,10 +1,8 @@
  
 ### Olá pessoas!!! Sejam Bem-Vindas  
 
-Estou no 2° Semestre de Análise e Desenvolvimento de Sistemas 
-
+- Cursando o 3° semestre de Análise e Desenvolvimento de Sistemas - UNIFASIPE 
 - Fascinada  por Desenvolvimento Web
-
 - Estágiando
 
 <img width="370em" height="170em" src="https://github-readme-stats.vercel.app/api?username=karielly16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   <img  width="270em" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karielly16&layout=compact&langs_count=7&theme=dracula"/>  <a> <img src="https://user-images.githubusercontent.com/79888115/145412794-b8830641-f9c7-4a45-9190-4dbb5a79a929.gif" width="190" height="190" border="0"/></a>
