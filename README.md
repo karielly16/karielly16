@@ -1,5 +1,5 @@
  
-### Olá pessoas!!! Sejam Bem-Vindas  
+### Olá pessoas!!! Sejam Bem-Vindas 😊
 
 - Estudante de Análise e Desenvolvimento de Sistemas pela UNIFASIPE, atualmente no 3° semestre! 💚
 - Desenvolvimento Web 💞
