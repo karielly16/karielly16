@@ -2,7 +2,7 @@
 ### Olá pessoas!!! Sejam Bem-Vindas 😊
 
 - Estudante de Análise e Desenvolvimento de Sistemas pela UNIFASIPE, atualmente no 3° semestre! 💚
-- Desenvolvimento Web 💞
+- Desenvolvimento Web - Brasil Sistemas e Tecnologia 💞
 - Estágiando
 - Amante por leitura 
 - Me encanta tudo aquilo que me tira da realidade! 🛸
