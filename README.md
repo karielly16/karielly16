@@ -1,10 +1,8 @@
  
 ### Olá pessoas!!! Sejam Bem-Vindas 😊
 
-- Estudante de Análise e Desenvolvimento de Sistemas pela UNIFASIPE, atualmente no 3° semestre! 💚
-- Desenvolvimento Web - Brasil Sistemas e Tecnologia 💞
-- Estágiando
-- Amante por leitura 
+- Estudante de Análise e Desenvolvimento de Sistemas pela UNIFASIPE, atualmente no 3° semestre!💻
+- Estágiando - Brasil Sistemas e Tecnologia 💚
 - Me encanta tudo aquilo que me tira da realidade! 🛸
 
 <img width="370em" height="170em" src="https://github-readme-stats.vercel.app/api?username=karielly16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   <img  width="270em" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karielly16&layout=compact&langs_count=7&theme=dracula"/>  
