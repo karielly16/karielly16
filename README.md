@@ -16,3 +16,9 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/> 
  
+##
+<p align="rigth">
+<a href="https://github.com/karielly16">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karielly16&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
