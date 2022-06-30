@@ -1,4 +1,4 @@
-</br>
+
 
 <div dsplay="inline-block">
  
@@ -9,7 +9,8 @@
 ### Olá pessoas!!! 😊
 
 - 📔Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3° semestre - UNIFASIPE.
-- 👩🏼‍💻Desenvolvedora Back-End - <a href="https://www.brst.com.br/" target="_blank">ruralhuh.  
+- 👩Estágiando em desenvolvimento Back-End - <a href="https://www.brst.com.br/" target="_blank">ruralhuh.  
+
 
 ### Estou aprendendo:
 
