@@ -10,7 +10,10 @@
 ### Olá pessoas!!! 😊
 
 - 📔Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3° semestre - UNIFASIPE.
-- 👩Estágiando em desenvolvimento Back-End - <a href="https://www.brst.com.br/" target="_blank">ruralhuh.  
+- 👩Estágiando em desenvolvimento Back-End - <a href="https://www.brst.com.br/" target="_blank">ruralhuh. </a>
+- 📔
+- 💞Amo séries, ler (principalmente romance e ficção), sair com os amigos.
+- 🪐Fascinada pelo universo.
 
 
 ### Estou aprendendo:
