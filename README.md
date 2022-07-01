@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/steffanny-selzler-4299a2208/" target="_blank"><img src="https://media.discordapp.net/attachments/989190013826773002/989190633208053820/bubbles-2084109_1920-removebg-preview_1.png" width="60" height="60" target="_blank"></a>
 
 ### Olá pessoas!!! 😊
+![icegif-1489](https://user-images.githubusercontent.com/79888115/176911934-a9177919-968d-49ae-aaac-24a0e139af7a.gif)
 
 - 📔Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3° semestre - UNIFASIPE.
 - 👩Estágiando em desenvolvimento Back-End - <a href="https://www.brst.com.br/" target="_blank">ruralhuh.  
