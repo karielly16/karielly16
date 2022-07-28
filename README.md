@@ -11,7 +11,7 @@
 
 - 📔Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4° semestre - UNIFASIPE.
 - 👩Estágiando em desenvolvimento Back-End - <a href="https://www.brst.com.br/" target="_blank">ruralhuh. </a>
-- 💞Amo séries, ler (principalmente romance e ficção), sair com os amigos.
+- 💞Amo séries, ler e sair com os amigos.
 - 🪐Fascinada pelo universo.
 
 
