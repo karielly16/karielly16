@@ -3,7 +3,6 @@
 ## Oiii eu sou a Stéffanny Selzler, estou aprendendo os desafios diários de ser uma programadora 😊!
 
 - 📔Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4° semestre - UNIFASIPE.
-- 👩Estágiando em desenvolvimento Back-End - <a href="https://www.brst.com.br/" target="_blank">ruralhuh. </a>
 - 💞Amo séries, ler e sair com os amigos.
 - 🪐Fascinada pelo universo.
 
