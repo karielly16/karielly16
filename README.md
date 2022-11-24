@@ -6,12 +6,6 @@
 - 💞Amo séries, ler e sair com os amigos.
 - 🪐Fascinada pelo universo.
 
-
-### Estou aprendendo:
-<div>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/> 
-</div>
- 
 ##
 <div>
  
