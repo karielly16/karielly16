@@ -2,7 +2,7 @@
 
 ## Oiii eu sou a Stéffanny Selzler, estou aprendendo os desafios diários de ser uma programadora 😊!
 
-- 📔Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 5° semestre - UNIFASIPE.
+- 📔Formada em Análise e Desenvolvimento de Sistemas - UNIFASIPE.
 - 💞Amo séries, ler e sair com os amigos.
 - 🪐Fascinada pelo universo.
 
